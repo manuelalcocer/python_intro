@@ -143,6 +143,9 @@ micoche.Arrancar()
 
 micoche.Estado()
 >> El coche está encendido, puedes moverte
+
+micoche.Mover(35)
+print ('El coche ha recorrido: %d' % micoche.kilometros_recorridos)
 ```
 
 
